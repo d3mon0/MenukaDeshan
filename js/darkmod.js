@@ -8,7 +8,7 @@ var back = document.getElementById("back");
         if(document.body.classList.contains("darkmod")){
             icon.src = "img/sun.png";
             head.src = "img/logo3.png"
-            logo.src = "img/png.png"
+            logo.src = "img/PNG.png"
             back.src = "img/pred.png"
             boy.src= "img/boy.png"
         }else{
